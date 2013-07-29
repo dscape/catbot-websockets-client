@@ -1,5 +1,5 @@
 {
-  "name": "catbot-websockets-client",
+  "name": "catbot-ws-client",
   "version": "0.0.0",
   "description": "catbot websockets client",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dscape/catbot-websockets-client.git"
+    "url": "git://github.com/dscape/catbot-ws-client.git"
   },
   "keywords": [
     "nodebots",
@@ -23,7 +23,7 @@
   "author": "nuno job @dscape",
   "license": "apache2",
   "bugs": {
-    "url": "https://github.com/dscape/catbot-websockets-client/issues"
+    "url": "https://github.com/dscape/catbot-ws-client/issues"
   },
   "dependencies": {
     "primus-emitter": "~0.1.0",
